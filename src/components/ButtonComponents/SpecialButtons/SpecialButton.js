@@ -7,3 +7,5 @@ const SpecialButton = ({ callback, special }) => {
     </div>
   );
 };
+
+export default SpecialButton;
